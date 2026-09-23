@@ -1,39 +1,158 @@
 <div align="center">
 
-  <!-- Banner Principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=220&section=header&text=Victor%20Barros%20Roma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20no%20CESAR%20School&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=12,18,28,0&height=220&section=header&text=Victor%20Barros%20Roma&fontSize=42&fontColor=a855f7&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
-  <br />
-
-  <!-- Efeito Digitação -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desenvolvendo+o+futuro+linha+por+linha...;Estudante+%40+CESAR;Explorando+C%2B%2B%2C+TypeScript+e+Python;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+no+CESAR+School;Desenvolvedor+Software;Explorando+novas+tecnologias" alt="Typing SVG" />
   </a>
 
-  <br /><br />
+  <p align="center">
+    <i>Construindo soluções com foco em código limpo e aprendizado contínuo.</i>
+  </p>
 
-  <!-- Redes Sociais -->
-  <a href="https://www.linkedin.com/in/victor-roma-38035a111/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7&borderColor=8b5cf6" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/roma_nfs" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=a855f7&borderColor=8b5cf6" alt="Instagram" />
-  </a>
+  <!-- Badges / Links Rápidos -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/victor-roma-38035a111/">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://instagram.com/roma_nfs">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram Badge"/>
+    </a>
+  </p>
 
 </div>
 
-<br />
+---
+
+### 🔮 Sobre mim
+
+```text
+┌─── Victor Barros Roma ───────────────────────────────┐
+│                                                      │
+│  🎓   Estudante no CESAR School                      │
+│  💡   Interessado em desenvolvimento de software    │
+│  🎯   Focado em aprimorar lógica e arquitetura      │
+│  📍   Brasil                                         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 💜 Sobre Mim
+### 🛠️ Tecnologias e Ferramentas
 
-```text
-┌───[ victor@roma:~ ]
-└──$ cat sobre_mim.txt
+<div align="center">
 
-  • 🎓 Graduando e entusiasta de tecnologia no CESAR.
-  • ⚙️ Foco em lógica de programação, desenvolvimento web e sistemas.
-  • 🎯 Sempre construindo projetos práticos para evoluir no código.
-  • 🧪 Experimentando de C/C++ até TypeScript e Python.
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=a855f7" alt="C" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=a855f7" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=a855f7" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=a855f7" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=a855f7" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=a855f7" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=a855f7" alt="CSS" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎧 Mesa DJ</h3>
+      <p align="center">Projeto interativo simulando uma mesa de som/DJ.</p>
+      <p align="center">
+        <a href="https://github.com/RomaNFS21/MesaDJG2">
+          <img src="https://img.shields.io/badge/Ver_Repositório-000000?style=flat-square&logo=github&logoColor=a855f7" alt="Repositório Mesa DJ" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Mini Restaurante</h3>
+      <p align="center">Sistema de gerenciamento para pedidos e atendimento em restaurante.</p>
+      <p align="center">
+        <a href="https://github.com/RomaNFS21/mini-restaurante-VictorBarrosRoma">
+          <img src="https://img.shields.io/badge/Ver_Repositório-000000?style=flat-square&logo=github&logoColor=a855f7" alt="Repositório Mini Restaurante" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Concessionária</h3>
+      <p align="center">Aplicação voltada para controle e cadastro de estoque de veículos.</p>
+      <p align="center">
+        <a href="https://github.com/RomaNFS21/Concessionaria_Roma">
+          <img src="https://img.shields.io/badge/Ver_Repositório-000000?style=flat-square&logo=github&logoColor=a855f7" alt="Repositório Concessionária" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 SharpdomArts</h3>
+      <p align="center">Projeto autoral focado em apresentação visual e desenvolvimento funcional.</p>
+      <p align="center">
+        <a href="https://github.com/RomaNFS21/SharpdomArts">
+          <img src="https://img.shields.io/badge/Ver_Repositório-000000?style=flat-square&logo=github&logoColor=a855f7" alt="Repositório SharpdomArts" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=RomaNFS21&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+
+  <!-- Stats & Top Languages -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RomaNFS21&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_color=a855f7&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaNFS21&layout=compact&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=a855f7&hide_border=false" alt="Linguagens mais usadas" />
+
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomaNFS21&theme=dark&background=0D1117&border=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaNFS21&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaNFS21/RomaNFS21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaNFS21/RomaNFS21/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/RomaNFS21/RomaNFS21/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+  <sub>Desenvolvido por **Victor Barros Roma** • 2026</sub>  
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%" />
+
+</div>
