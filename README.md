@@ -115,28 +115,27 @@
 
 ---
 
-### 📊 Estatísticas & Atividade
+<!-- STATS -->
+<h2 align="center">📊 Estatísticas & Atividade</h2>
 
 <div align="center">
-
-  <!-- Stats & Top Languages -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RomaNFS21&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_color=a855f7&hide_border=false" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaNFS21&layout=compact&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=a855f7&hide_border=false" alt="Linguagens mais usadas" />
-
-  <br /><br />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomaNFS21&theme=dark&background=0D1117&border=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaNFS21&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RomaNFS21&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&border_color=a855f7&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaNFS21&layout=compact&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&border_color=a855f7&hide_border=false" alt="Linguagens mais usadas" />
 </div>
 
----
+<br />
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomaNFS21&theme=purple-dark&background=0D1117&border=A855F7&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=RomaNFS21&theme=synthwave" alt="Gráfico de Atividades" />
+</div>
+
+<br />
 ### 🐍 Contribution Snake
 
 <div align="center">
